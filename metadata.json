@@ -1,0 +1,7 @@
+{
+  "name": "SwanArt Order Management",
+  "description": "A centralized order management system for SwanArt canvas printing, featuring AI-powered order entry, designer production boards, and operations tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
